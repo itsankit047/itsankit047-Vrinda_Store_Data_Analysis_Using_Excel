@@ -13,7 +13,7 @@ The Vrinda Store Analysis Excel Project Focuses On Analyzing Sales Data For Vrin
 
 ## Project Structure
 
-- ** Vrinda Store Data Analysis Project.Xlsx**: The Main Excel Workbook Containing Sheets For Data Import, Cleaning, Analysis, Visualization, And Reporting.
+- **Vrinda Store Data Analysis Project.Xlsx**: The Main Excel Workbook Containing Sheets For Data Import, Cleaning, Analysis, Visualization, And Reporting.
 
 ## Dataset Source
 
